@@ -1,8 +1,14 @@
-Hi there 👋
+Hi there im Wan Nur Raudhah binti Maszamanie
 
-- 🔭 education: The Bachelor of Computer Science (Bioinformatics) with Honours
-- 🌱 programming language: Python/HTML(PT3), Java(Matriculation), C++
-- 👯 I’m looking to collaborate on programming technique lab
-- 🤔 I’m looking for help with programming in C++
+Profile
+- 🔭 Im enrolled in The Bachelor of Computer Science (Bioinformatics) with Honours
+- 🌱 Currently learning C++
+- 🎺 I enjoy playing trombone and guitar
 - 📫 How to reach me: raudhahmzn@gmail.com
 - 😄 Pronouns: she/her
+
+Certificates and awards
+.........
+
+Languages
+C++ Python 
