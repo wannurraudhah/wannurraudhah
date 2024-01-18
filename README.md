@@ -5,7 +5,7 @@ Profile
 - 🌱 Currently learning C++
 - 🎺 I enjoy playing trombone and guitar
 - 📫 How to reach me: raudhahmzn@gmail.com
-- 😄 Pronouns: she/her
+
 
 Certificates and awards
 .........
