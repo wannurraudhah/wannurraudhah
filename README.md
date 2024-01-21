@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raudhah</h1>
-- 🔭 I’m currently enrolled in Bachelor of Computer Science (Bioinformatics) with Honours
+- 🔭 I’m currently enrolled in Bachelor of Computer Science (Bioinformatics) with Honour
 
 - 🏆 Here is my certificates and awards [https://publuu.com/flip-book/link/5275142](https://publuu.com/flip-book/link/5275142)
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/@raudhahmzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@raudhahmzn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
