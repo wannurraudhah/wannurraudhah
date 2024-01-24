@@ -10,10 +10,7 @@
 <p align="left">
   <a href="https://instagram.com/https://www.instagram.com/raudhahmzn?igsh=mtblc2nqnjr5mxdsmq%3d%3d&utm_source=qr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raudhahmzn?igsh=mtblc2nqnjr5mxdsmq%3d%3d&utm_source=qr" height="30" width="40" />
-  </a>
-  <a href="http://www.w3.org/2000/svg" target="_blank">
-    <img align="center" src="http://www.w3.org/2000/svg" alt="Your Icon" height="30" width="40" />
-  </a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +26,8 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="http://www.w3.org/2000/svg" target="_blank">
+    <img src="http://www.w3.org/2000/svg](https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png)https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="AutoCAD" height="40" width="40" />
 </p>
+
