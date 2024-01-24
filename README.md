@@ -28,6 +28,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="http://www.w3.org/2000/svg" target="_blank">
-    <img src="http://www.w3.org/2000/svg](https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png)https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="AutoCAD" height="40" width="40" />
+    <img src="http://www.w3.org/2000/svg](https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png)https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F08%2FAutoCad_logo.svg%2F2560px-AutoCad_logo.svg.png&tbnid=MQI8Q3-HP-RMIM&vet=12ahUKEwi4l5ut__SDAxVMRGwGHRAPA0cQMygFegQIARBU..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AAutoCad_logo.svg&docid=YVWKUiyymI9eOM&w=2560&h=691&q=autoCAD%20icon%20svg&hl=en&client=safari&ved=2ahUKEwi4l5ut__SDAxVMRGwGHRAPA0cQMygFegQIARBU)https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F08%2FAutoCad_logo.svg%2F2560px-AutoCad_logo.svg.png&tbnid=MQI8Q3-HP-RMIM&vet=12ahUKEwi4l5ut__SDAxVMRGwGHRAPA0cQMygFegQIARBU..i&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AAutoCad_logo.svg&docid=YVWKUiyymI9eOM&w=2560&h=691&q=autoCAD%20icon%20svg&hl=en&client=safari&ved=2ahUKEwi4l5ut__SDAxVMRGwGHRAPA0cQMygFegQIARBU" alt="AutoCAD" height="40" width="40" />
 </p>
 
