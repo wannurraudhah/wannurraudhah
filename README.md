@@ -27,5 +27,8 @@
   </a>
   <a href="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.svg" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autocad-icon.svg" alt="AutoCAD" width="40" height="40"/> 
-
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
+  </a>
 </p>
