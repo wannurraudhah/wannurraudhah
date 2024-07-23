@@ -31,7 +31,7 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
   </a>
-  <a href="https://www.pinterest.com/pin/450289662744269419/" target="_blank" rel="noreferrer">
-    <img src="https://i.pinimg.com/736x/2f/2c/ff/2f2cff3c2fe5adbcfb7d330f99c0a2e5--assembly-language-anime-memes.jpg" alt="assembly" width="40" height="40"/>
+  <a href="https://orgmode.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Org-mode_logo.svg/1200px-Org-mode_logo.svg.png" alt="org-mode" width="40" height="40"/>
   </a>
 </p>
