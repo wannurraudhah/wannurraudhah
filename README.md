@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently enrolled in **Bachelor of Computer Science (Bioinformatics) with Honours**
 
-- 🏆 Here are my certificates and awards [https://publuu.com/flip-book/link/5275142](https://publuu.com/flip-book/link/5275142)
-
 - 📫 How to reach me **wannurraudhah@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
