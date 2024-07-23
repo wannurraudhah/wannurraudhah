@@ -6,6 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.instagram.com/raudhahmzn?igsh=mtblc2nqnjr5mxdsmq%3d%3d&utm_source=qr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/raudhah-maszamanie" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -31,7 +34,7 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Assembly_language.svg" alt="assembly" width="40" height="40"/>
+  <a href="https://www.pinterest.com/pin/450289662744269419/" target="_blank" rel="noreferrer">
+    <img src="https://i.pinimg.com/736x/2f/2c/ff/2f2cff3c2fe5adbcfb7d330f99c0a2e5--assembly-language-anime-memes.jpg" alt="assembly" width="40" height="40"/>
   </a>
 </p>
